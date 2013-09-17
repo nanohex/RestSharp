@@ -10,6 +10,7 @@ To see all commits for this version, [click here](https://github.com/RestSharp/R
 * Added `ExecuteAsync` overloads that return `Task<T>`
 * Improved handling of nullable types
 * Support `DateTimeOffset` to `XmlDeserializer`
+* Support setting a request body on `GET` and `OPTIONS` requests.
 
 ### Bug Fixes
 
